@@ -1,0 +1,16 @@
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.exe
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.deps.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.runtimeconfig.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.runtimeconfig.dev.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\ref\Sistema de Produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.pdb
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.csproj.AssemblyReference.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.AssemblyInfoInputs.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.AssemblyInfo.cs
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.csproj.CoreCompileInputs.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\ref\Sistema de Produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.pdb
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.genruntimeconfig.cache

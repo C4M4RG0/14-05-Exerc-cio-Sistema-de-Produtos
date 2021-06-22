@@ -1,0 +1,48 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.genruntimeconfig.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.exe
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.deps.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.dev.json
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.pdb
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.AssemblyReference.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfoInputs.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfo.cs
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.CoreCompileInputs.cache
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.pdb
+C:\Mateus\Celulares\SD 16 GB\A\B\C\Colas\Marcaum\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.genruntimeconfig.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.exe
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.deps.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.dev.json
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\bin\Debug\net5.0\Catálogo de produtos.pdb
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.AssemblyReference.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfoInputs.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfo.cs
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.CoreCompileInputs.cache
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.pdb
+C:\Mateus\SENAI\Tarefas\14-05 - Exercício - Sistema de Produtos\obj\Debug\net5.0\Catálogo de produtos.genruntimeconfig.cache
